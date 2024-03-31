@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\00a9263b-f560-4974-9096-0fe5876a9d83_Designer (1).png",
+      "PackagePath": "staticwebassets\\images\\00a9263b-f560-4974-9096-0fe5876a9d83_Designer (1).png"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\144a3285-1c13-4d7d-ac2d-59b784bf4e5e_Hockey.jpg",
+      "PackagePath": "staticwebassets\\images\\144a3285-1c13-4d7d-ac2d-59b784bf4e5e_Hockey.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\1b9e5c15-f4e8-4bac-9c88-de618086474d_pexels-tim-eiden-1374370 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\1b9e5c15-f4e8-4bac-9c88-de618086474d_pexels-tim-eiden-1374370 (1).jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\390b80ee-99d0-4042-b6d4-65cf42434de9_OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\390b80ee-99d0-4042-b6d4-65cf42434de9_OIP.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\40cf1698-c403-46b4-a1d1-cab5c961e112_OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\40cf1698-c403-46b4-a1d1-cab5c961e112_OIP.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\7c484b14-b738-4bf0-9f59-16c6c4bce851_OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\7c484b14-b738-4bf0-9f59-16c6c4bce851_OIP.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\80a569bc-fdda-4b1e-a339-d5010cfe7082_batminton.jpg",
+      "PackagePath": "staticwebassets\\images\\80a569bc-fdda-4b1e-a339-d5010cfe7082_batminton.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\8600a9fd-7849-4dd9-9da9-8784bfdef6fb_OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\8600a9fd-7849-4dd9-9da9-8784bfdef6fb_OIP.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\8bdf8949-2118-4484-91e6-97d0e80b8f82_football.jpg",
+      "PackagePath": "staticwebassets\\images\\8bdf8949-2118-4484-91e6-97d0e80b8f82_football.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\b2a7dcb9-411d-4725-a48d-96a92f609faf_images.jpg",
+      "PackagePath": "staticwebassets\\images\\b2a7dcb9-411d-4725-a48d-96a92f609faf_images.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\cd8c0d2e-40d5-4b0a-820e-007b97757283_WIN_20240325_17_21_08_Pro.jpg",
+      "PackagePath": "staticwebassets\\images\\cd8c0d2e-40d5-4b0a-820e-007b97757283_WIN_20240325_17_21_08_Pro.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\d752d558-fb2d-4bb0-ba0b-819e517426cf_download (2).jpg",
+      "PackagePath": "staticwebassets\\images\\d752d558-fb2d-4bb0-ba0b-819e517426cf_download (2).jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\dcdf9992-15b6-472f-b105-07e97cab6a6b_OIP.jpg",
+      "PackagePath": "staticwebassets\\images\\dcdf9992-15b6-472f-b105-07e97cab6a6b_OIP.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\f131a186-2f3e-4c8a-a8b0-225bf7bd1517_images.jpg",
+      "PackagePath": "staticwebassets\\images\\f131a186-2f3e-4c8a-a8b0-225bf7bd1517_images.jpg"
+    },
+    {
+      "Id": "D:\\Maindatabase-Microproject\\FinanceManagementSystem\\wwwroot\\images\\fc12b58d-d486-4bf8-b115-e27cae6a5521_WashingMachine.jpg",
+      "PackagePath": "staticwebassets\\images\\fc12b58d-d486-4bf8-b115-e27cae6a5521_WashingMachine.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinanceManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinanceManagementSystem.props",
+      "PackagePath": "build\\FinanceManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinanceManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\FinanceManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinanceManagementSystem.props",
+      "PackagePath": "buildTransitive\\FinanceManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
